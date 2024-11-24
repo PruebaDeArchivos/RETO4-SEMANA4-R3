@@ -1,0 +1,52 @@
+body{
+    background-color: hsl(47, 88%, 63%);
+    font-family: "Figtree", sans-serif;
+    font-size: 16px;
+}
+
+.conteniner{
+    background-color: hsl(0, 0%, 100%);
+    width: 375px;
+	border-radius: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	overflow: hidden;
+    padding: 15px;
+    border: 1px solid black;
+    overflow: hidden;
+    box-shadow: 8px 8px 0px #000;
+    
+}
+
+.conteinerText>p{
+    padding-right: 30px;
+}
+
+h3{
+    background-color: hsl(47, 88%, 63%);
+    padding: 10px;
+    border-radius: 5px;
+    width: 20.5%;
+    font-weight: 900;
+}
+
+.portada{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.perfil{
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
+
+.perfil>div>img{
+    width: 50%;
+}
+
+.perfil>div>p{
+    margin-left: -20px;
+    
+}
