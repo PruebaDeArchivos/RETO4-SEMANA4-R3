@@ -50,3 +50,14 @@ h3{
     margin-left: -20px;
     
 }
+
+.perfil2{
+    position: relative;
+    align-items: center;
+    font-weight: bold;
+}
+
+span{
+    position: absolute;
+    top: 25px;
+}
